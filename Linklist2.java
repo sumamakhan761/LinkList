@@ -17,3 +17,4 @@ public class Linklist2 {
     System.out.println(ll);
   }
 }
+

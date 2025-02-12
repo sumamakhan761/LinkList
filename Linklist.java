@@ -25,10 +25,8 @@ public class Linklist {
     }
     // step 2 = newNode = head
     newnode.next = head;// link
-
     // step 3 = head = newnode
     head = newnode;
-
   }
 
   public void addLast(int data) {
